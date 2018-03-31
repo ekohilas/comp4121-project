@@ -1,0 +1,140 @@
+(what, are)
+are you [are]
+are you [you]
+
+(a)
+because [a]
+because [good]
+
+(what, are)
+do you [are]
+do you [you]
+
+(thank, u, dont)
+do you wanna [dont]
+do you wanna [have]
+
+(thank, u, go, back)
+do you want to [back]
+do you want to [to]
+
+(a)
+evan [a]
+evan [good]
+
+(idk, what)
+how about [what]
+how about [is]
+
+(becuase, you)
+how often [you]
+how often [can]
+
+(a)
+i [a]
+i [good]
+
+(why, i)
+i am [i]
+i am [have]
+
+(i, am, currently, stands, up)
+i am so excited for [up]
+i am so excited for [to]
+
+(i, just)
+i dont [just]
+i dont [a]
+
+(blobs, feel, looks)
+i feel like [looks]
+i feel like [like]
+
+(i, totally)
+i forgot [totally]
+i forgot [not]
+
+(ill, probably)
+ill be [probably]
+ill be [not]
+
+(i, would)
+i love [would]
+i love [be]
+
+(a)
+im [a]
+im [good]
+
+(but, its)
+im not [its]
+im not [a]
+
+(ohhhhh, ok)
+im so [ok]
+im so [i]
+
+(rite, rite)
+is there [rite]
+is there [in]
+
+(deserve, such, as, a)
+is this a possible [a]
+is this a possible [good]
+
+(i, wish, i, dont)
+i think i have [dont]
+i think i have [have]
+
+(i, think, so)
+i think ive [so]
+i think ive [i]
+
+(audience, spinning, up, going)
+it is up to [going]
+it is up to [to]
+
+(ended, up, going)
+its up to [going]
+its up to [to]
+
+(i, dont)
+i want [dont]
+i want [have]
+
+(i, want, to, go)
+i want to eat [go]
+i want to eat [to]
+
+(i, did, you, want)
+i want you to [want]
+i want you to [to]
+
+(<redacted_noun>, will, probably)
+i will be [probably]
+i will be [not]
+
+(a)
+the [a]
+the [good]
+
+(loot, loot)
+the best [loot]
+the best [could]
+
+(octopus, merge)
+the only [merge]
+the only [afterwards]
+
+(you, can, do)
+what are you [do]
+what are you [you]
+
+(wait, what)
+what is [what]
+what is [is]
+
+(a)
+whats [a]
+whats [good]
+

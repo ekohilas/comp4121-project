@@ -1,0 +1,140 @@
+(are, you)
+are you [you]
+are you [can]
+
+(i)
+because [i]
+because [have]
+
+(do, you)
+do you [you]
+do you [can]
+
+(do, you, can)
+do you wanna [can]
+do you wanna [i]
+
+(do, you, want, to)
+do you want to [to]
+do you want to [be]
+
+(i)
+evan [i]
+evan [have]
+
+(what, about)
+how about [about]
+how about [it]
+
+(i, have)
+how often [have]
+how often [a]
+
+(i)
+i [i]
+i [have]
+
+(i, think)
+i am [think]
+i am [i]
+
+(i, think, so, excited, for)
+i am so excited for [for]
+i am so excited for [the]
+
+(i, have)
+i dont [have]
+i dont [a]
+
+(i, have, a)
+i feel like [a]
+i feel like [good]
+
+(i, think)
+i forgot [think]
+i forgot [i]
+
+(i, do)
+ill be [do]
+ill be [you]
+
+(i, think)
+i love [think]
+i love [i]
+
+(i)
+im [i]
+im [have]
+
+(im, not)
+im not [not]
+im not [a]
+
+(im, not)
+im so [not]
+im so [a]
+
+(is, a)
+is there [a]
+is there [good]
+
+(is, this, is, a)
+is this a possible [a]
+is this a possible [good]
+
+(i, think, i, have)
+i think i have [have]
+i think i have [a]
+
+(i, think, i)
+i think ive [i]
+i think ive [have]
+
+(i, was, going, to)
+it is up to [to]
+it is up to [be]
+
+(im, going, to)
+its up to [to]
+its up to [be]
+
+(i, have)
+i want [have]
+i want [a]
+
+(i, want, to, be)
+i want to eat [be]
+i want to eat [a]
+
+(i, think, its, a)
+i want you to [a]
+i want you to [good]
+
+(i, would, be)
+i will be [be]
+i will be [a]
+
+(i)
+the [i]
+the [have]
+
+(the, same)
+the best [same]
+the best [time]
+
+(i, have)
+the only [have]
+the only [a]
+
+(what, are, you)
+what are you [you]
+what are you [can]
+
+(what, is)
+what is [is]
+what is [a]
+
+(i)
+whats [i]
+whats [have]
+

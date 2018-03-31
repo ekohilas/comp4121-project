@@ -1,0 +1,104 @@
+(you, can)
+are you [can]
+
+(i)
+because [i]
+
+(i, have)
+do you [have]
+
+(i, can, see)
+do you wanna [see]
+
+(i, have, to, be)
+do you want to [be]
+
+(we)
+evan [we]
+
+(do, it)
+how about [it]
+
+(i, have)
+how often [have]
+
+(dont)
+i [dont]
+
+(can, i)
+i am [i]
+
+(can, i, go, to, the)
+i am so excited for [the]
+
+(dont, have)
+i dont [have]
+
+(dont, like, a)
+i feel like [a]
+
+(have, to)
+i forgot [to]
+
+(just, a)
+ill be [a]
+
+(do, it)
+i love [it]
+
+(not)
+im [not]
+
+(not, a)
+im not [a]
+
+(so, i)
+im so [i]
+
+(it, was)
+is there [was]
+
+(this, is, good, to)
+is this a possible [to]
+
+(can, i, have, a)
+i think i have [a]
+
+(can, i, just)
+i think ive [just]
+
+(is, it, to, be)
+it is up to [be]
+
+(not, to, be)
+its up to [be]
+
+(have, to)
+i want [to]
+
+(have, to, do, it)
+i want to eat [it]
+
+(do, you, can, do)
+i want you to [do]
+
+(can, be, a)
+i will be [a]
+
+(the)
+the [the]
+
+(is, that)
+the best [that]
+
+(same, thing)
+the only [thing]
+
+(do, you, can)
+what are you [can]
+
+(i, just)
+what is [just]
+
+(the)
+whats [the]

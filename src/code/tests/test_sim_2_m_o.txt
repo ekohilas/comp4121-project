@@ -1,0 +1,104 @@
+(are, you, are)
+are you [are]
+
+(i, just)
+because [just]
+
+(do, you, are)
+do you [are]
+
+(do, you, can, u)
+do you wanna [u]
+
+(do, you, want, to, go)
+do you want to [go]
+
+(evan, evan)
+evan [evan]
+
+(i, dont, worry)
+how about [worry]
+
+(its, a, a)
+how often [a]
+
+(i, think)
+i [think]
+
+(i, think, i)
+i am [i]
+
+(i, think, so, excited, for, me)
+i am so excited for [me]
+
+(i, think, i)
+i dont [i]
+
+(i, dont, think, its)
+i feel like [its]
+
+(i, think, i)
+i forgot [i]
+
+(ill, go, to)
+ill be [to]
+
+(i, think, i)
+i love [i]
+
+(i, think)
+im [think]
+
+(im, so, im)
+im not [im]
+
+(im, so, im)
+im so [im]
+
+(is, this, is)
+is there [is]
+
+(im, in, the, same, as)
+is this a possible [as]
+
+(i, think, i, think, i)
+i think i have [i]
+
+(i, think, i, think)
+i think ive [think]
+
+(i, woke, up, to, go)
+it is up to [go]
+
+(i, want, to, go)
+its up to [go]
+
+(i, think, i)
+i want [i]
+
+(i, want, to, go, to)
+i want to eat [to]
+
+(i, did, you, to, go)
+i want you to [go]
+
+(i, dont, go, to)
+i will be [to]
+
+(this, is)
+the [is]
+
+(the, best, keanu)
+the best [keanu]
+
+(so, sad, reacts)
+the only [reacts]
+
+(what, are, you, are)
+what are you [are]
+
+(what, is, this)
+what is [this]
+
+(i, know)
+whats [know]

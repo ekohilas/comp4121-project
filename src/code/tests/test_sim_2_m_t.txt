@@ -1,0 +1,104 @@
+(are, you, can)
+are you [can]
+
+(im, homesick)
+because [homesick]
+
+(do, you, can)
+do you [can]
+
+(do, you, can, i)
+do you wanna [i]
+
+(do, you, want, to, get)
+do you want to [get]
+
+(its, name)
+evan [name]
+
+(what, im, talking)
+how about [talking]
+
+(i, need, to)
+how often [to]
+
+(i, think)
+i [think]
+
+(i, think, i)
+i am [i]
+
+(i, think, so, much, more, syntax)
+i am so excited for [syntax]
+
+(i, think, i)
+i dont [i]
+
+(i, think, i, feel)
+i feel like [feel]
+
+(i, think, i)
+i forgot [i]
+
+(i, have, to)
+ill be [to]
+
+(i, think, cody)
+i love [cody]
+
+(i, think)
+im [think]
+
+(im, glad, youre)
+im not [youre]
+
+(its, not, hungry)
+im so [hungry]
+
+(is, there, right)
+is there [right]
+
+(is, such, a, crime, as)
+is this a possible [as]
+
+(i, think, i, think, you)
+i think i have [you]
+
+(i, think, thats, what)
+i think ive [what]
+
+(i, was, going, to, get)
+it is up to [get]
+
+(im, trying, to, get)
+its up to [get]
+
+(i, think, you)
+i want [you]
+
+(i, need, to, do, you)
+i want to eat [you]
+
+(i, wonder, if, you, want)
+i want you to [want]
+
+(i, dont, get, to)
+i will be [to]
+
+(i, think)
+the [think]
+
+(the, same, the)
+the best [the]
+
+(the, rarest, items)
+the only [items]
+
+(what, are, you, can)
+what are you [can]
+
+(what, is, this)
+what is [this]
+
+(i, know)
+whats [know]
